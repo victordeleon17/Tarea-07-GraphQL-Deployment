@@ -1,0 +1,26 @@
+{
+  "name": "tarea-de-arquitectura",
+  "version": "1.0.0",
+  "description": "API GraphQL con Express, Apollo Server y SQLite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"No hay pruebas configuradas\""
+  },
+  "keywords": [
+    "graphql",
+    "express",
+    "apollo",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.22.1",
+    "graphql": "^16.13.2",
+    "sqlite3": "^6.0.1"
+  }
+}
