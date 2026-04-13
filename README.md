@@ -50,6 +50,9 @@ La API quedó desplegada en el siguiente enlace:
 [https://tarea-07-graphql-deployment.onrender.com/graphql](https://tarea-07-graphql-deployment.onrender.com/graphql)
 
 ---
+<img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/2dacc1ed-4dd3-4a39-99b7-0cffb3d5b42b" />
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/9372926f-7d03-4ec9-adf2-70f0e5c8b9fd" />
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/1d2dbef0-793d-4b44-a65e-f42e119384c9" />
 
 ## Consultas de ejemplo
 
@@ -83,8 +86,6 @@ query {
   }
 }
 
-ANEXOS
-<img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/2dacc1ed-4dd3-4a39-99b7-0cffb3d5b42b" />
-<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/9372926f-7d03-4ec9-adf2-70f0e5c8b9fd" />
-<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/1d2dbef0-793d-4b44-a65e-f42e119384c9" />
+
+
 
