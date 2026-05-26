@@ -46,13 +46,17 @@ function App() {
             <p className="eyebrow">Organiza tu vida paso a paso</p>
             <h1>Construye mejores hábitos con una interfaz simple y moderna.</h1>
             <p className="hero-description">
-              HabitFlow es una aplicación web estática creada con Vite y React.
-              Permite visualizar hábitos, metas y progreso semanal desde una interfaz agradable.
+              HabitFlow es una aplicación web estática creada con Vite y React. Permite visualizar
+              hábitos, metas y progreso semanal desde una interfaz agradable.
             </p>
 
             <div className="hero-actions">
-              <a className="primary-button" href="#dashboard">Ver dashboard</a>
-              <a className="secondary-button" href="#features">Explorar funciones</a>
+              <a className="primary-button" href="#dashboard">
+                Ver dashboard
+              </a>
+              <a className="secondary-button" href="#features">
+                Explorar funciones
+              </a>
             </div>
           </div>
 
@@ -104,7 +108,9 @@ function App() {
           <p className="section-label">Proyecto preparado para despliegue</p>
           <h2>Aplicación lista para Docker, GitHub Actions y AWS Elastic Beanstalk.</h2>
         </div>
-        <a className="primary-button" href="#dashboard">Revisar panel</a>
+        <a className="primary-button" href="#dashboard">
+          Revisar panel
+        </a>
       </section>
     </main>
   )
