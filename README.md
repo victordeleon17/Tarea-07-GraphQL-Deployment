@@ -28,6 +28,8 @@ La aplicación está desplegada en AWS Elastic Beanstalk en la siguiente URL:
 
 http://assignment-app-env.eba-5fpnmqpn.us-east-1.elasticbeanstalk.com
 
+http://assignment-app-env.eba-5fpnmqpn.us-east-1.elasticbeanstalk.com
+
 ## Configuración de Docker
 
 La aplicación fue dockerizada usando un `Dockerfile` multi-stage.
