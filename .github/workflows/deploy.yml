@@ -64,7 +64,7 @@ jobs:
 
       - name: Upload bundle and deploy to Elastic Beanstalk
         run: |
-          VERSION_LABEL="assignment-03-${GITHUB_SHA::7}-${GITHUB_RUN_NUMBER}"
+          VERSION_LABEL="assignment-03-${GITHUB_SHA::7}-${GITHUB_RUN_NUMBER}-${GITHUB_RUN_ATTEMPT}"
           EB_BUCKET=$(aws elasticbeanstalk create-storage-location --query S3Bucket --output text)
           aws s3 cp deploy.zip s3://$EB_BUCKET/$VERSION_LABEL.zip
 
